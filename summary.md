@@ -11,4 +11,3 @@
 | NIST SP 800-53         | Provide a catalog of security and privacy controls for federal information systems and organizations | NIST Special Publication 800-53 Rev. 5 | [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) |
 | NIST SP 800-171        | Offer guidelines for protecting controlled unclassified information (CUI) in non-federal systems and organizations | NIST Special Publication 800-171 Rev. 2 | [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) |
 | HITRUST CSF            | Create a certifiable framework for managing information security, tailored to the healthcare industry | HITRUST CSF Version 9 | [HITRUST CSF](https://hitrustalliance.net/csf/) |
-This table now includes links to the URLs for each specific standard.
